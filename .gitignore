@@ -1,0 +1,5 @@
+# Fișiere generate de compilator
+*.exe
+*.obj
+*.ilk
+*.pdb
